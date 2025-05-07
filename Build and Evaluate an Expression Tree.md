@@ -21,7 +21,7 @@ To write a Python program to build and evaluate the given Expression tree.
 
 ## PROGRAM:
 
-```
+```python
 
 from binarytree import Node
 class Node:
